@@ -1,0 +1,43 @@
+$arrow-size: 0.875rem;
+$base-padding: 0.875rem;
+
+$theme-primary: #2291EB;
+$theme-secondary: #1063A8;
+$theme-success: #157F1F;
+$theme-danger: #CC2936;
+$theme-warning: #FFE45E;
+
+$white: white;
+$black: black;
+
+$text-primary: rgba(0, 0, 0, 0.87);
+$text-secondary: rgba(0, 0, 0, 0.54);
+$text-hint: rgba(0, 0, 0, 0.38);
+$text-divider: rgba(0, 0, 0, 0.12);
+
+$font-size-normal: 1rem;
+$font-size-small: 0.875rem;
+$font-size-tiny: 0.75rem;
+
+$border-radius-regular: 0.25rem;
+$bg-color: #f7f7f7;
+
+$bg-default: $white;
+
+$bg-footer: #e0e0e0;
+
+$votelinks-bg: #f8f9fa;
+
+$subtextbuttons: opacity(0.5);
+
+$nav-gradient: linear-gradient(270deg,
+$white 0%,
+rgba(255, 255, 255, 0) 100%);
+
+$form-bg: $white;
+
+$table-even: lighten($theme-secondary, 60);
+
+$nav-hover: lighten($theme-primary, 40);
+
+$highlight-color: lighten($theme-primary, 40); 
