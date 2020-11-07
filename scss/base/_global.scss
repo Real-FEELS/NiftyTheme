@@ -1,0 +1,14 @@
+body#mainbody{
+    background: $white;
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column;
+}
+
+.mainbodywrapper{
+    flex: 1;
+
+    .mainbody{
+        
+    }
+}
