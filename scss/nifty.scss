@@ -2,8 +2,9 @@
 // Profile & donations: 1NKh2Fhaa5XdWGRE56ECKKPGY8fk69ahcB
 
 // plugins
-@import "plugins/_normalize";
-@import "plugins/_include-media";
+@import "plugins/bootstrap/bootstrap";
+
+// @import "plugins/_mq";
 
 // base
 @import "base/_vars";

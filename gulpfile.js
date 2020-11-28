@@ -34,7 +34,7 @@ gulp.task("nifty-theme", function () {
         cascade: false,
       })
     )
-    .pipe(concat("nifty.css"))
+    .pipe(concat("niftycompact.css"))
     // .pipe(uglifyCss()) // minify css
     .pipe(gulp.dest("./css/"))
     // .pipe(uglifyCss()) // minify css
